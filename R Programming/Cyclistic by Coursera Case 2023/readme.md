@@ -10,6 +10,8 @@ The Business Task: Convert casual riders into members.
 
 The marketing team's goal is to design marketing strategies to convert casual riders into annual members. My task is to answer one of three questions guiding the future marketing program - How do annual members and casual riders use Cyclistic bikes differently?
 
+Link dataset : https://divvy-tripdata.s3.amazonaws.com/index.html
+
 The other two questions are: 1) Why would casual riders buy Cyclistic annual memberships? 2) How can Cyclistic use digital media to influence casual riders to become members?
 
 Key Stakeholders
